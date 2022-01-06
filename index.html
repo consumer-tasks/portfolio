@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="A Web Front End Developer based in Mexico."
+      content="Senior Full Stack, BlockChain developer."
     />
 
     <meta
       name="keywords"
-      content="A Web Front End Developer based in Mexico."
+      content="Senior Full Stack, BlockChain developer."
     />
 
     <!-- Font Awesome -->
@@ -64,9 +64,9 @@
           <div class="about__content">
             <div class="about__text">
               <p>
-                I am a Software Engineer based in Mexico. I am
-                proficient in Front-End development. I have extensive knowledge
-                in HTML, CSS, Javascript, React, TypeScript, Web3.js Node.Js, MongoDB, and Express. As a
+                I am a Senior Full Stack, BlockChain developer. I am
+                proficient in Full Stack, BlockChain development. I have extensive knowledge
+                in HTML, CSS, Javascript, React, TypeScript, Web3.js, C++, Node.Js, MongoDB, and Express, SmartContract, Algorand. As a
                 software engineer, I help businesses create an online presence
                 through fully responsive websites, email marketing, social
                 media marketing and search optimization.
