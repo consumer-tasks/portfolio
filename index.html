@@ -23,7 +23,7 @@
     <link rel="shortcut icon" type="image/png" href="./favicon.ico" />
     <link rel="stylesheet" href="./style.css" />
     <title>
-      Michael | A Front-End Developer based in Mexico.
+      Senior Full Stack, BlockChain developer 
     </title>
   </head>
 
@@ -48,8 +48,8 @@
       </div>
       <div class="header__text-box row">
         <div class="header__text">
-          <h1 class="heading-primary">Michael</h1>
-          <p>A Front-End Developer based in Mexico.</p>
+          <h1 class="heading-primary">Talent Developer</h1>
+          <p>Senior Full Stack, BlockChain developer.</p>
           <a href="#contact" class="btn btn--pink">Contact Me</a>
         </div>
       </div>
